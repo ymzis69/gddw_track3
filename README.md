@@ -227,7 +227,7 @@ CUDA_VISIBLE_DEVICES=0 python ./tools/test.py ./configs/detectoRS_r101.py ../use
 |                    |                 trick                  |               图像大小                |   结果记录（A榜/B榜）   |                             模型                             |
 | :----------------: | :------------------------------------: | :-----------------------------------: | :---------------------: | :----------------------------------------------------------: |
 |   **datectoRS**    | **label_smoothing+autoaugment_v2+BFP** | **(4096,720),(4096,900),(4096,1080)** | **0.9912(best)/0.9922** |                                                              |
-| **datectoRS_r101** |   **label_smoothing+autoaugment_v2**   | **(4096,720),(4096,900),(4096,1080)** | **0.9910/0.9927(best)** | [**model**][https://pan.baidu.com/s/1atTqjpRrFKhRGoVDP5RLHg](密码: isdo) |
+| **datectoRS_r101** |   **label_smoothing+autoaugment_v2**   | **(4096,720),(4096,900),(4096,1080)** | **0.9910/0.9927(best)** | [**model**](https://pan.baidu.com/s/1atTqjpRrFKhRGoVDP5RLHg)(密码: isdo) |
 
 
 
@@ -266,4 +266,3 @@ author：ymzis69
 email：1750950070@qq.com
 ```
 
-# gddw_track3
